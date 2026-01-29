@@ -9,6 +9,9 @@ The topology used is a cross-coupled LC VCO (LCVCO), as illustrated in the figur
 ![Topologia do VCO](Images/LCVCO.png) 
 *Figure 1: Cross-Coupled LC VCO Topology with Differential Output.* 
 
+![Topologia do VCO](Images/Sche.png) 
+*Figure 1: Cross-Coupled LC VCO Topology with Differential Output.* 
+
 Input and Output of a Cross-Coupled LC VCO:
 
 - LO+ and LO-: Differential output pair
