@@ -4,10 +4,10 @@ Repository containing the design and simulations of an LC VCO (Voltage-Controlle
 
 ## VCO
 
-The topology used is a cross-coupled LC VCO (LCVCO), as illustrated in the figure below. The oscillator employs an RLC tank with a pair of cross-coupled transistors to provide the feedback necessary for oscillation, while a current mirror sets the current of the cross-coupled pair, ensuring stability and control of the operating point.
+The LC-VCO schematic was implemented in the Cadence Virtuoso environment, using the technology available in the SG13G2 folder for room-temperature simulations. To enable operation under cryogenic conditions, transistor characterization was provided by IHP and made available in the SG13G2C folder, allowing for the analysis of device behavior at low temperatures. The schematic and the testbench were implemented according to Figures 1 and 2, respectively.
 
 ![Schematic](../Images/Schematic.png)
-*Figure 1: Cross-Coupled LC VCO Topology with Differential Output.*
+*Figure 1: LC-VCO schematic.*
 
 ![Testbench](../Images/Testbench.png)
 *Figure 2: Testbench Setup for the LCVCO.*
