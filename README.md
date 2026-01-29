@@ -7,7 +7,7 @@ Repository containing the design and simulations of an LC VCO (Voltage-Controlle
 The topology used is a cross-coupled LC VCO (LCVCO), as illustrated in the figure below. The oscillator employs an RLC tank with a pair of cross-coupled transistors to provide the feedback necessary for oscillation, while a current mirror sets the current of the cross-coupled pair, ensuring stability and control of the operating point.
 
 ![Topologia do VCO](Images/LCVCO.png)
-*Figura 1: Topologia do LCVCO cross-coupled com saída diferencial.*
+*Figure 1: Cross-Coupled LC VCO Topology with Differential Output.*
 
 ## Parameters
 
