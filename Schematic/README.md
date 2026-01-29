@@ -12,8 +12,7 @@ The LC-VCO schematic was implemented in the Cadence Virtuoso environment, using 
 ![Testbench](../Images/Testbench.png)
 *Figure 2: Testbench Setup for the LCVCO.*
 
-
-Input and Output of a Cross-Coupled LC VCO:
+## Input and Output of a Cross-Coupled LC VCO:
 
 - LOP2 and LON2-: Differential output pair
 - VCC2: Power supply terminal
@@ -21,7 +20,7 @@ Input and Output of a Cross-Coupled LC VCO:
 - VCTR2: Control Voltage of the varactor
 - GND: Ground terminal
 
-- ## Parameters
+## Parameters
 
 | Parameter               | Value   (300 K)     | Value   (300 K)      |
 | ----------------------- | ------------------- | -------------------- |
