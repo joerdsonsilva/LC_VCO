@@ -2,9 +2,7 @@
 
 | Parameter               | Value       |
 | ----------------------- | ----------- |
-| Technology              | IHP 130 nm  |
-| Center Frequency        | 4.9 GHz     |
-| Tuning Range            | 4.7–5.0 GHz |
+| Technology              | IHP (SG13G2) 130 nm  |
 | Control Voltage (Vctrl) | 0–3 V       |
 | Supply Voltage          | 1.5 V       |
 | Bias Current            | 6 mA        |
