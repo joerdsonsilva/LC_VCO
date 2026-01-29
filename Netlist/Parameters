@@ -1,0 +1,9 @@
+## Parameters
+
+| Parameter               | Value       |
+| ----------------------- | ----------- |
+| Technology              | IHP 130 nm  |
+| Center Frequency        | 4.9 GHz     |
+| Tuning Range            | 4.7–5.0 GHz |
+| Control Voltage (Vctrl) | 0–3 V       |
+| Supply Voltage          | 1.5 V       |
