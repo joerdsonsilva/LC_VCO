@@ -1,2 +1,2 @@
-!\[Schematic](../Images/LVS.png)
+!\[lvs](../Images/LVS.png)
 
