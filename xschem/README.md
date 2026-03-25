@@ -73,7 +73,7 @@ The layout verification was performed using KLayout to ensure the design satisfi
 - DRC: The Design Rule Check (DRC) verifies that the layout follows all the design rules defined by the PDK.
 
 <p align="center">
-  <img src="../Images/.png" alt=""><br>
+  <img src="../Images/DRC.png" alt="DRC"><br>
   <em>Figure 6: DRC verification: layout complies with design rules.</em>
 </p>
 
