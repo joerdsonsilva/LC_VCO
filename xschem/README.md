@@ -48,5 +48,5 @@ The LC-VCO schematic was implemented in the Cadence Virtuoso environment, using 
 | Tuning Range         | 4.7–5.0 GHz   | 4.8–5.1 GHz |
 | Phase Noise (@1 MHz) | -98.8 dBc/Hz  | -110 dBc/Hz |
 
-
+### Tuning Range
 
