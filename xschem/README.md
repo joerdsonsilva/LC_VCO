@@ -47,7 +47,6 @@ The LC-VCO schematic was implemented in the Cadence Virtuoso environment, using 
   <em>Figure 3: LC-VCO Layout.</em>
 </p>
 
-
 ## Post-Layout Simulation
 
 <p align="center">
